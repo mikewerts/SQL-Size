@@ -1,0 +1,1 @@
+exec xp_readerrorlog 0, 1, N'is full', NULL, NULL, NULL, N'desc'
